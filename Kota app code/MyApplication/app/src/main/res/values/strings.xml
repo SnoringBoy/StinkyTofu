@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food Ordering App</string>
+    <string name="title_HOME">Home</string>
+    <string name="title_items">item</string>
+    <string name="title_purchase">Purchase</string>
+    <string name="title_login">Login</string>
+    <string name="title_guest">GUEST</string>
+    <string name="title_activity_sub">subActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_admin">Admin</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="text_password">PassWord</string>
+    <string name="title_activity_guest">GuestActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
