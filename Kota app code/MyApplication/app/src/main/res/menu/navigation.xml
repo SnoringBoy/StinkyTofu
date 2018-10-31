@@ -6,17 +6,19 @@
         android:id="@+id/navigation_home"
         android:checkable="false"
         android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
         android:title="@string/title_HOME" />
 
     <item
         android:id="@+id/navigation_items"
         android:enabled="false"
-        android:title="@string/title_items"
-        app:showAsAction="collapseActionView" />
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_items" />
 
     <item
         android:id="@+id/navigation_purchase"
         android:enabled="false"
+        android:icon="@drawable/shoppingcart"
         android:title="@string/title_purchase" />
 
 </menu>
