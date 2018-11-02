@@ -27,7 +27,7 @@
             android:name=".guestActivity"
             android:label="@string/title_activity_sub" />
         <activity
-            android:name=".LoginActivity2"
+            android:name=".LoginActivity"
             android:label="@string/title_activity_login2" />
         <activity
             android:name=".AdminActivity"
