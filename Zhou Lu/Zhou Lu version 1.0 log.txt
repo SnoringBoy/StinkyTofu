@@ -1,0 +1,13 @@
+Stinky Tofu 1.0 main feature is fragments and navigation bar.
+
+https://www.youtube.com/watch?v=tPV8xA7m-iw&t=690s
+this video is for the bottom Navigation bar
+
+https://www.youtube.com/watch?v=jXtof6OUtcE
+this video is about splash screen, but need to set up the manifest for extra step
+
+https://www.youtube.com/watch?v=dFlPARW5IX8&t=760s
+this video is for intro and useful setting for coding like automatically import.  This video teaches you how to make a sum calculator.
+
+https://www.youtube.com/watch?v=6ow3L39Wxmg
+this video is useful to understand activity concepts, intent, intent service and etc.
