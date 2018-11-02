@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AdminLoginActivity">
-
+    <!-- this is the activity layout file for the login page.
+    most of the things in this page is attributes that you can specify in the
+    GUI design.-->
     <EditText
         android:id="@+id/editTextUName "
         android:layout_width="wrap_content"

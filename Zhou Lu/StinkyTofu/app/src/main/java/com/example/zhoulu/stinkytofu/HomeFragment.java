@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 public class HomeFragment extends Fragment {
     @Nullable
     @Override
+    //dont know much about the argument and return statement.  But it is require for changing fragment section to home fragment
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_home, container, false);
     }
